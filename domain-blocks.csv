@@ -28,7 +28,6 @@ asbestos.cafe,suspend,false,false,"alt-right, hate-associated, anti-lgbtq, hate-
 asimon.org,suspend,false,false,"",false
 asteroidm.space,suspend,false,false,"",false
 ating.press,suspend,false,false,"",false
-awakari.com,suspend,false,false,"",false
 badly.co,suspend,false,false,"",false
 bae.st,suspend,false,false,"hate-speech, alt-right, anti-lgbtq, hate-associated, inappropriate, nazism, racism, iftas:hate-speech;online-harassment",false
 banepo.st,suspend,false,false,"hate-associated, antivax, harassment",false
@@ -785,6 +784,7 @@ metaoculusvenues.com,suspend,false,false,We do not federate with Facebook/Meta,f
 metaoculusvenues.net,suspend,false,false,We do not federate with Facebook/Meta,false
 metaopenarts.com,suspend,false,false,We do not federate with Facebook/Meta,false
 metaopenarts.net,suspend,false,false,We do not federate with Facebook/Meta,false
+yuriposter.club,suspend,false,false,"",false
 metapixelads.com,suspend,false,false,We do not federate with Facebook/Meta,false
 metapixelads.net,suspend,false,false,We do not federate with Facebook/Meta,false
 metaportal.name,suspend,false,false,We do not federate with Facebook/Meta,false
@@ -1432,3 +1432,5 @@ yuga.surf,suspend,false,false,"",false
 pl.absolutelyproprietary.org,suspend,false,false,"",false
 caekis.love,suspend,false,false,"",false
 majestic12.airforce,suspend,false,false,"",false
+activitypub.awakari.app,suspend,false,false,Aggressive crawler and data hoover,false
+awakari.com,suspend,false,false,Aggressive crawler and data hoover,false
